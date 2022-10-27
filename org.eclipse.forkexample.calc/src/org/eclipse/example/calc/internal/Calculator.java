@@ -9,6 +9,7 @@
  *******************************************************************************/
 
 // Hallo!
+// 2nd comment
 
 package org.eclipse.example.calc.internal;
 
