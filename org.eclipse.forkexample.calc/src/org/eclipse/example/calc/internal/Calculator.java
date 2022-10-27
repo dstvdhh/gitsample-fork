@@ -8,7 +8,7 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
 
-// Hallo!
+// Hello!
 // 2nd comment
 
 package org.eclipse.example.calc.internal;
